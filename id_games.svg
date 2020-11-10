@@ -17,6 +17,18 @@
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <defs
      id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient884">
+      <stop
+         style="stop-color:#eaffff;stop-opacity:1;"
+         offset="0"
+         id="stop880" />
+      <stop
+         style="stop-color:#eaffff;stop-opacity:0;"
+         offset="1"
+         id="stop882" />
+    </linearGradient>
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
        inkscape:vp_x="108.16653 : 108.16653 : 0"
@@ -53,7 +65,17 @@
        x2="247.51105"
        y2="109.89513"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(3.75,0,0,1.5454545,-806.25,-84.999997)" />
+       gradientTransform="matrix(3.75,0,0,1.6363634,-806.25,-89.999989)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient884"
+       id="linearGradient886"
+       x1="0"
+       y1="90"
+       x2="0"
+       y2="84"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect" />
   </defs>
   <sodipodi:namedview
      inkscape:window-maximized="1"
@@ -67,9 +89,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="526.03115"
-     inkscape:cy="167.9893"
+     inkscape:zoom="0.5"
+     inkscape:cx="441.40354"
+     inkscape:cy="331.3116"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -93,21 +115,21 @@
      inkscape:label="Layer 1"
      style="display:inline">
     <rect
-       style="fill:#69625d;fill-opacity:1;stroke-width:0.636362;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0"
+       style="fill:#69625d;fill-opacity:1;stroke-width:0.654811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0"
        id="rect970"
        width="300"
-       height="85"
+       height="90"
        x="0"
-       y="95" />
+       y="90" />
     <rect
-       style="fill:url(#linearGradient982);fill-opacity:1;stroke-width:0.636363;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0"
+       style="fill:url(#linearGradient982);fill-opacity:1;stroke-width:0.654813;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0"
        id="rect974"
        width="300"
-       height="85"
+       height="90"
        x="0"
        y="0" />
     <rect
-       style="fill:#eaffff;fill-opacity:1;stroke-width:0.239105;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0"
+       style="fill:url(#linearGradient886);fill-opacity:1;stroke-width:0.239105;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0"
        id="rect972"
        width="300"
        height="12"
