@@ -9,4 +9,4 @@ The following files are licensed under [CC0-1.0](https://creativecommons.org/sha
 - [pride_demiomni.svg](pride_demiomni.svg)
 - [pride_transenby.svg](pride_transenby.svg)
 
-Any file not listed above that is included in this repository can be assumed "Copyright (C) 2020 Devin Jolly (Lightling). All rights reserved."
+Any file not listed above that is contained within this repository can be assumed "Copyright (C) 2020 Devin Jolly (Lightling). All rights reserved."
