@@ -38,5 +38,5 @@
   <img style="display: inline;" src="https://elinux.org/images/c/cb/Raspberry_Pi_Logo.svg" alt="raspbian icon" height="32"/>
 </p>
 <p align="center">
-  <img src="https://www.boincstats.com/signature/-1/user/22193519176/sig.png" alt="current boinc stats" height="128"/>
+  <img src="https://www.boincstats.com/signature/-1/user/22193519176/sig.png" alt="current boinc stats" height="140"/>
 </p>
