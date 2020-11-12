@@ -12,6 +12,10 @@ mklink /j "target identifier, i.e. the folder/file name that should go there" "t
 ```
 mklink /j "E:\Lightling\Libraries\Documents\Electronic Arts\The Sims 4" "E:\Lightling\Save Games\Origin Games\TS 4"
 mklink /j "E:\Lightling\Libraries\Documents\Electronic Arts\The Sims 3" "E:\Lightling\Save Games\Origin Games\TS 3"
+mklink /j "E:\Lightling\Libraries\Documents\Square Enix\Just Cause 3" "E:\Lightling\Save Games\Steam Games\Just Cause 3"
+mklink /j "C:\Users\Lightling\AppData\Roaming\.minecraft" "D:\Games\Mojang\.minecraft"
+mklink /j "D:\Games\Mojang\.minecraft\saves" "E:\Lightling\Save Games\Other Games\Minecraft\saves"
+
 ```
 
 ### TS4
@@ -19,6 +23,7 @@ mklink /j "E:\Lightling\Libraries\Documents\Electronic Arts\The Sims 3" "E:\Ligh
 bb.ignoregameplayunlocksentitlement
 cas.fulleditmode
 testingcheats enabled
+
 ```
 
 ## CLI
