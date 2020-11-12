@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="v01-emblem-transp.png" alt="lightling emblem avatar" height="384"/>
+  <img src="name.svg" alt="lightling emblem avatar" height="192"/>
 </p>
 <p align="center">
   <img style="display: inline;" src="gw_dark-mode_text_noalpha.png" alt="goldenwere logo" height="96"/>
