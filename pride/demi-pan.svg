@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="demi-pan.svg"
+   width="300mm"
+   height="180mm"
+   viewBox="0 0 300 180"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <defs
+     id="defs2">
+    <clipPath
+       id="clipPath905"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         d="M 270.00015,23.000146 C 246.01447,23.000146 230,43.6054 230,65.000166 c 0,44.073344 75.00008,89.999674 75.00008,89.999674 0,0 75.00006,-45.92633 75.00006,-89.999674 0,-21.394766 -16.01446,-42.00002 -40.00013,-42.00002 -27.95442,0 -34.99993,21.99969 -34.99993,21.99969 0,0 -7.04551,-21.99969 -34.99993,-21.99969 z"
+         style="fill:#000000;fill-opacity:1;stroke-width:3.96899"
+         id="path907" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:window-height="1017"
+     inkscape:window-width="1920"
+     id="base"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="617.21541"
+     inkscape:cy="221.51312"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer3"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:pagecheckerboard="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     style="display:inline"
+     inkscape:label="Layer 2"
+     id="layer2"
+     inkscape:groupmode="layer">
+    <path
+       sodipodi:nodetypes="ccccc"
+       id="path851"
+       d="m 20,50 h 280 v 80 H 20 Z"
+       style="fill:#6d0070;fill-opacity:1;stroke-width:3.96899" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       id="path847"
+       d="M 0,0 H 300 V 75 H 50 Z"
+       style="fill:#ffffff;fill-opacity:1;stroke-width:3.96899" />
+    <path
+       style="fill:#b8b8b8;fill-opacity:1;stroke-width:3.96899"
+       d="M 0,180 H 300 V 105 H 50 Z"
+       id="path849"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path845"
+       d="M 0,0 115,90 0,180 Z"
+       style="fill:#000000;fill-opacity:1;stroke-width:3.96899" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     id="layer3"
+     inkscape:groupmode="layer"
+     style="display:inline">
+    <g
+       transform="translate(-100,0.999854)"
+       clip-path="url(#clipPath905)"
+       id="g903">
+      <rect
+         style="fill:#21b1ff;fill-opacity:1;stroke-width:5.04671"
+         id="rect871"
+         width="150"
+         height="44"
+         x="230"
+         y="23" />
+      <rect
+         style="fill:#ffd800;fill-opacity:1;stroke-width:5.04671"
+         id="rect875"
+         width="150"
+         height="44"
+         x="230"
+         y="67" />
+      <rect
+         style="fill:#ff218c;fill-opacity:1;stroke-width:5.04671"
+         id="rect879"
+         width="150"
+         height="44"
+         x="230"
+         y="111.00014" />
+    </g>
+  </g>
+</svg>
