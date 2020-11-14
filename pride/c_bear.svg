@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+While some sources, including wikipedia, say that the bear flag is trademarked / copywritten, others say this copyright was waived, and the USPTO does not turn up any results.
+The flag featured on Wikipedia is licensed, but this does not originate from that file in any way other than that both this file and that both are derivatives of the original flag.
+-->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="c_bear.svg"
+   width="300mm"
+   height="180mm"
+   viewBox="0 0 300 180"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <defs
+     id="defs2">
+    <clipPath
+       id="clipPath905"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         d="M 270.00015,23.000146 C 246.01447,23.000146 230,43.6054 230,65.000166 c 0,44.073344 75.00008,89.999674 75.00008,89.999674 0,0 75.00006,-45.92633 75.00006,-89.999674 0,-21.394766 -16.01446,-42.00002 -40.00013,-42.00002 -27.95442,0 -34.99993,21.99969 -34.99993,21.99969 0,0 -7.04551,-21.99969 -34.99993,-21.99969 z"
+         style="fill:#000000;fill-opacity:1;stroke-width:3.96899"
+         id="path907" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:window-height="1017"
+     inkscape:window-width="1920"
+     id="base"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="550.81758"
+     inkscape:cy="328.43909"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:pagecheckerboard="true"
+     showguides="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid853"
+       units="mm"
+       spacingx="1"
+       spacingy="1" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     id="layer3"
+     inkscape:groupmode="layer"
+     style="display:inline">
+    <rect
+       style="fill:#453016;fill-opacity:1;stroke-width:0.413841;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0"
+       id="rect845"
+       width="300"
+       height="30"
+       x="0"
+       y="0" />
+    <rect
+       style="fill:#a95710;fill-opacity:1;stroke-width:0.413841;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0"
+       id="rect851"
+       width="300"
+       height="30"
+       x="0"
+       y="26" />
+    <rect
+       style="fill:#ffd94c;fill-opacity:1;stroke-width:0.413841;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0"
+       id="rect853"
+       width="300"
+       height="30"
+       x="0"
+       y="52" />
+    <rect
+       style="fill:#f6d48f;fill-opacity:1;stroke-width:0.413841;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0"
+       id="rect861"
+       width="300"
+       height="30"
+       x="0"
+       y="78" />
+    <rect
+       style="fill:#e5e5e5;fill-opacity:1;stroke-width:0.413841;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0"
+       id="rect859"
+       width="300"
+       height="30"
+       x="0"
+       y="102" />
+    <rect
+       style="fill:#505050;fill-opacity:1;stroke-width:0.413841;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0"
+       id="rect857"
+       width="300"
+       height="30"
+       x="0"
+       y="128" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke-width:0.385265;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0"
+       id="rect855"
+       width="300"
+       height="26"
+       x="0"
+       y="154" />
+    <g
+       id="g847" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <g
+       id="g882"
+       transform="matrix(0.93782831,-0.93782831,0.93782831,0.93782831,-189.75233,76.596174)">
+      <ellipse
+         style="display:inline;fill:#000000;fill-opacity:1;stroke-width:0.306186"
+         id="path861"
+         cx="150"
+         cy="91.5"
+         rx="5"
+         ry="7.5" />
+      <ellipse
+         style="display:inline;fill:#000000;fill-opacity:1;stroke-width:0.306186"
+         id="ellipse863"
+         cx="97.973366"
+         cy="140.50404"
+         rx="5"
+         ry="7.5"
+         transform="rotate(-15)" />
+      <ellipse
+         style="display:inline;fill:#000000;fill-opacity:1;stroke-width:0.306186"
+         id="ellipse865"
+         cx="191.80463"
+         cy="62.858288"
+         rx="5"
+         ry="7.5"
+         transform="rotate(15)" />
+      <ellipse
+         style="display:inline;fill:#000000;fill-opacity:1;stroke-width:0.306186"
+         id="ellipse867"
+         cx="182.42195"
+         cy="51.024334"
+         rx="5"
+         ry="7.5"
+         transform="rotate(15)" />
+      <ellipse
+         style="display:inline;fill:#000000;fill-opacity:1;stroke-width:0.306186"
+         id="ellipse869"
+         cx="107.3558"
+         cy="128.67006"
+         rx="5"
+         ry="7.5"
+         transform="rotate(-15)" />
+      <path
+         id="path851"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.25"
+         d="m 150.00015,100 c -2.50001,0 -5.00003,3.9e-4 -8.00003,2.00039 -3,2 -0.55204,11.01464 -1.99988,12.99973 -2.89569,3.97018 -10.00042,-10e-5 -10.00042,9.9999 0,10 10.00032,5.00022 20.00033,5.00022 9.99999,0 19.99981,4.99978 19.99981,-5.00022 0,-10 -7.10422,-6.02972 -9.99991,-9.9999 -1.44784,-1.98509 1.00012,-10.99973 -1.99988,-12.99973 -3,-2 -5.50002,-2.00039 -8.00002,-2.00039 z" />
+    </g>
+  </g>
+</svg>
