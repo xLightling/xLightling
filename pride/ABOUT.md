@@ -17,5 +17,4 @@ Organized in the following manner: prefix_primary-secondary (secondary is if app
 - `a_` : aspec (asexual spectrum)
 - `c_` : subculture
 - `g_` : gender non-conforming
-- `r_` : romantic identity
 - `s_` : sexuality
