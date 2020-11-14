@@ -1,8 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--
-While some sources, including wikipedia, say that the bear flag is trademarked / copywritten, others say this copyright was waived, and the USPTO does not turn up any results.
-The flag featured on Wikipedia is licensed, but this does not originate from that file in any way other than that both this file and that both are derivatives of the original flag.
--->
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -41,11 +37,11 @@ The flag featured on Wikipedia is licensed, but this does not originate from tha
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.9899495"
-     inkscape:cx="550.81758"
-     inkscape:cy="328.43909"
+     inkscape:zoom="0.35"
+     inkscape:cx="169.52087"
+     inkscape:cy="226.86863"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer3"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:pagecheckerboard="true"
@@ -96,14 +92,14 @@ The flag featured on Wikipedia is licensed, but this does not originate from tha
        x="0"
        y="52" />
     <rect
-       style="fill:#f6d48f;fill-opacity:1;stroke-width:0.413841;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0"
+       style="fill:#eacb95;fill-opacity:1;stroke-width:0.413841;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0"
        id="rect861"
        width="300"
        height="30"
        x="0"
        y="78" />
     <rect
-       style="fill:#e5e5e5;fill-opacity:1;stroke-width:0.413841;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0"
+       style="fill:#f0f0f0;fill-opacity:1;stroke-width:0.413841;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0"
        id="rect859"
        width="300"
        height="30"
