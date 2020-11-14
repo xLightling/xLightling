@@ -38,8 +38,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="785.62156"
-     inkscape:cy="301.61072"
+     inkscape:cx="722.83476"
+     inkscape:cy="290.29367"
      inkscape:document-units="mm"
      inkscape:current-layer="layer3"
      inkscape:document-rotation="0"
@@ -72,33 +72,40 @@
        clip-path="url(#clipPath905)"
        id="g903">
       <rect
-         style="fill:#e40303;fill-opacity:1;stroke-width:3.56856"
+         style="fill:#e40303;fill-opacity:1;stroke-width:3.63286"
          id="rect871"
          width="150"
-         height="22"
+         height="22.799948"
          x="230"
          y="23" />
       <rect
          y="45"
          x="230"
-         height="22"
+         height="22.799948"
          width="150"
          id="rect873"
-         style="fill:#ff8c00;fill-opacity:1;stroke-width:3.56856" />
+         style="fill:#ff8c00;fill-opacity:1;stroke-width:3.63286" />
       <rect
-         style="fill:#ffed00;fill-opacity:1;stroke-width:3.56856"
+         style="fill:#ffed00;fill-opacity:1;stroke-width:3.63285"
          id="rect875"
          width="150"
-         height="22"
+         height="22.799948"
          x="230"
          y="67" />
       <rect
+         y="89"
+         x="230"
+         height="22.799948"
+         width="150"
+         id="rect843"
+         style="fill:#008026;fill-opacity:1;stroke-width:3.63286" />
+      <rect
          y="111.00015"
          x="230"
-         height="22"
+         height="22.799948"
          width="150"
          id="rect877"
-         style="fill:#004dff;fill-opacity:1;stroke-width:3.56856" />
+         style="fill:#004dff;fill-opacity:1;stroke-width:3.63286" />
       <rect
          style="fill:#750787;fill-opacity:1;stroke-width:3.56856"
          id="rect879"
@@ -106,13 +113,6 @@
          height="22"
          x="230"
          y="133.00015" />
-      <rect
-         y="89"
-         x="230"
-         height="22"
-         width="150"
-         id="rect843"
-         style="fill:#008026;fill-opacity:1;stroke-width:3.56856" />
     </g>
   </g>
 </svg>
