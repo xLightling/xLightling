@@ -17,7 +17,10 @@ Organized in the following manner: prefix_primary-secondary (secondary is if app
 - `a_` : aspec (asexual spectrum)
 - `c_` : subculture
 - `g_` : gender non-conforming
+- `r_` : romantic attraction*
 - `s_` : sexuality
+
+\*due to the sheer number of combinations that are possible with the romantic attraction flags, these are simply 'templates' (pre-sized) that one can copy-paste onto a flag of their choice; the demisexual x-romantic flags already existed before these were added + have a different heart size/placement that is mostly unique to the demisexual flag, so they weren't removed
 
 ## Catalog
 
@@ -197,6 +200,40 @@ For easy viewing; organized in alphabetical order
        title="trans-masc"
        height="64"/>
 </p>
+
+### Romantic Attraction
+  <img src="r_aro.svg"
+       alt="aromantic heart"
+       title="aromantic heart"
+       height="64"/>
+  <img src="r_bi.svg"
+       alt="biromantic heart"
+       title="biromantic heart"
+       height="64"/>
+  <img src="r_demirom.svg"
+       alt="demiromantic heart"
+       title="demiromantic heart"
+       height="64"/>
+  <img src="r_gay.svg"
+       alt="homoromantic (gay variant) heart"
+       title="homoromantic (gay variant) heart"
+       height="64"/>
+  <img src="r_lesbian.svg"
+       alt="homoromantic (lesbian variant) heart"
+       title="homoromantic (lesbian variant) heart"
+       height="64"/>
+  <img src="r_omni.svg"
+       alt="omniromantic heart"
+       title="omniromantic heart"
+       height="64"/>
+  <img src="r_pan.svg"
+       alt="panromantic heart"
+       title="panromantic heart"
+       height="64"/>
+  <img src="r_poly.svg"
+       alt="polyromantic heart"
+       title="polyromantic heart"
+       height="64"/>
 
 ### Sexuality
 
