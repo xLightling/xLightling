@@ -27,7 +27,8 @@ testingcheats enabled
 ```
 
 ## CLI
-### Empty Folder Removal
+### Windows
+#### Empty Folder Removal
 NOTE: THIS COMMAND WILL REMOVE SYMBOLIC LINKS, use in a directory you know doesn't have symbolic links
 ```
 for /f "delims=" %i in ('dir /s /b /ad ^| sort /r') do rd "%i" 2>NUL
@@ -35,6 +36,14 @@ for /f "delims=" %i in ('dir /s /b /ad ^| sort /r') do rd "%i" 2>NUL
 READONLY:  
 ```
 for /r "C:\" /d %F in (.) do @dir /b "%F" | findstr "^" >nul || echo %~fF
+```
+
+#### Mass Rename
+NOTE: This must be run in powershell, not command prompt  
+NOTE: This is based off of running Caesium, which by default adds `_compressed`; this can be changed and even removed, but I keep it to determine compression delta; replace the directory with whatever necessary, and replace "_compressed" with what is getting replaced
+```
+get-childitem C:\Users\Lightling\Projects\Development\Web\Lightling\images -recurse -file | foreach {Rename-item $_.FullName -NewName ($_.FullName -replace "_compressed")}
+PAUSE
 ```
 
 ## Utilities
