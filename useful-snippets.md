@@ -6,7 +6,7 @@ A collection of useful code snippets, commands, etc.
 ### Game Paths for Cloud Syncing
 Because Windows has like 80 folders that games can save to, backups may be difficult. Use symbolic links (use /j for certain games like Minecraft which may not work with default symbolic link)
 #### Basic Command
-mklink /j "target identifier, i.e. the folder/file name that should go there" "the path to the existing folder/file"
+`mklink /j "target identifier, i.e. the folder/file name that should go there" "the path to the existing folder/file"`
 #### Commands
 (for future reference; these are based off my own setup and some folders may be things I added myself; put as many here as possible for one massive copy-paste anytime I want to reinstall Windows or do something that breaks this stuff)  
 ```
@@ -46,25 +46,25 @@ Sometimes, if the trash bin gets too large, the context-menu for the trash bin w
 2. run `python odrive.py emptytrash`
 
 ### OS Flashing
-Windows:
-Rufus
-GPT, UEFI, NTFS
-Doesn't ask for Mode
+#### Windows
+Rufus  
+GPT, UEFI, NTFS  
+Doesn't ask for Mode  
 
-Ubuntu: THIS CURRENTLY ISN'T WORKING
-Rufus
-GPT, UEFI, FAT32
-ISO Mode
+#### Ubuntu (THIS CURRENTLY ISN'T WORKING)  
+Rufus  
+GPT, UEFI, FAT32  
+ISO Mode  
 
-Manjaro: THIS CURRENTLY ISN'T WORKING
-Rufus
-GPT, UEFI, FAT
-Doesn't ask for Mode
+#### Manjaro (THIS CURRENTLY ISN'T WORKING)
+Rufus  
+GPT, UEFI, FAT  
+Doesn't ask for Mode  
 
-OpenSUSE:
-Rufus
-GPT, UEFI, FAT32
-DD Image Mode
+#### OpenSUSE
+Rufus  
+GPT, UEFI, FAT32  
+DD Image Mode  
 
 if something gets converted to MBR (certain utilities love to do this without warning; e.g., Etcher):
 ```
