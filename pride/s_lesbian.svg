@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="s_lesbian.svg"
+   width="300mm"
+   height="180mm"
+   viewBox="0 0 300 180"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <defs
+     id="defs2">
+    <clipPath
+       id="clipPath905"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         d="M 270.00015,23.000146 C 246.01447,23.000146 230,43.6054 230,65.000166 c 0,44.073344 75.00008,89.999674 75.00008,89.999674 0,0 75.00006,-45.92633 75.00006,-89.999674 0,-21.394766 -16.01446,-42.00002 -40.00013,-42.00002 -27.95442,0 -34.99993,21.99969 -34.99993,21.99969 0,0 -7.04551,-21.99969 -34.99993,-21.99969 z"
+         style="fill:#000000;fill-opacity:1;stroke-width:3.96899"
+         id="path907" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:window-height="1017"
+     inkscape:window-width="1920"
+     id="base"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="603.63159"
+     inkscape:cy="322.97957"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer3"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:pagecheckerboard="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     id="layer3"
+     inkscape:groupmode="layer"
+     style="display:inline">
+    <rect
+       style="fill:#d52d00;fill-opacity:1;stroke-width:0.477863;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0"
+       id="rect845"
+       width="300"
+       height="40"
+       x="0"
+       y="0" />
+    <rect
+       style="fill:#ff9a56;fill-opacity:1;stroke-width:0.477863;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0"
+       id="rect847"
+       width="300"
+       height="40"
+       x="0"
+       y="36" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.477863;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0"
+       id="rect838"
+       width="300"
+       height="40"
+       x="0"
+       y="72" />
+    <rect
+       style="fill:#d362a4;fill-opacity:1;stroke-width:0.477863;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0"
+       id="rect840"
+       width="300"
+       height="40"
+       x="0"
+       y="108" />
+    <rect
+       style="fill:#a30262;fill-opacity:1;stroke-width:0.453341;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0"
+       id="rect842"
+       width="300"
+       height="36"
+       x="0"
+       y="144" />
+  </g>
+</svg>
