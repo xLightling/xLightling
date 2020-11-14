@@ -111,6 +111,10 @@ For easy viewing; organized in alphabetical order
        alt="agender"
        title="agender"
        height="64"/>
+  <img src="g_androg.svg"
+       alt="androgynous"
+       title="androgynous"
+       height="64"/>
   <img src="g_bigender.svg"
        alt="bigender"
        title="bigender"
