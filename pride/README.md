@@ -132,6 +132,10 @@ For easy viewing; organized in alphabetical order
        alt="demigirl"
        title="demigirl"
        height="64"/>
+  <img src="g_enby.svg"
+       alt="nonbinary"
+       title="nonbinary (enby / nb)"
+       height="64"/>
   <img src="g_gfae.svg"
        alt="genderfae"
        title="genderfae"
@@ -177,11 +181,11 @@ For easy viewing; organized in alphabetical order
        title="transgender"
        height="64"/>
   <img src="g_trans-enby.svg"
-       alt="transgender nonbinary (trans-enby) (combined variant)"
+       alt="transgender nonbinary (combined variant)"
        title="transgender nonbinary (trans-enby) (combined variant)"
        height="64"/>
   <img src="g_trans-enby2.svg"
-       alt="transgender nonbinary (trans-enby) (center stripe variant)"
+       alt="transgender nonbinary (center stripe variant)"
        title="transgender nonbinary (trans-enby) (center stripe variant)"
        height="64"/>
   <img src="g_trans-femme.svg"
