@@ -59,10 +59,9 @@ mklink /j "E:\Lightling\Libraries\Documents\Electronic Arts\The Sims 4" "E:\Ligh
 
 ### TS4
 ```
-bb.ignoregameplayunlocksentitlement
+testingcheats 1
 cas.fulleditmode
-testingcheats enabled
-
+bb.ignoregameplayunlocksentitlement
 ```
 
 ## CLI

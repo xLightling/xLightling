@@ -38,8 +38,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="580.68831"
-     inkscape:cy="206.662"
+     inkscape:cx="467.55586"
+     inkscape:cy="523.02432"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -134,10 +134,10 @@
          sodipodi:nodetypes="ccccccc" />
       <path
          id="path853"
-         style="fill:#ffffff;fill-opacity:1;stroke:#311c3b;stroke-width:2.51969062;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-         d="m 340.1582,170.07812 v 283.46485 h 37.79492 V 340.1582 c 126.38626,33.8651 151.18165,113.38477 151.18165,113.38477 h 37.79492 c 0,0 -27.69305,-80.29682 -151.18165,-113.38549 33.74094,0 151.18165,17.5414 151.18165,-75.59107 0,-93.13247 -130.52022,-94.48829 -226.77149,-94.48829 z m 37.79492,56.69336 c 56.16806,0 151.18074,-3.25031 151.18074,37.79493 0,41.04524 -96.33756,37.79492 -151.18074,37.79492 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:#311c3b;stroke-width:2.51969;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 340.1582,170.07812 v 283.46485 h 37.79492 V 340.1582 c 117.33862,42.43655 151.18165,113.38477 151.18165,113.38477 h 37.79492 c 0,0 -28.68597,-73.39204 -125.98404,-113.38549 6.04169,0 125.98404,-1.03007 125.98404,-75.59107 0,-93.13247 -130.52022,-94.48829 -226.77149,-94.48829 z m 37.79492,56.69336 c 56.16806,0 151.18074,-3.25031 151.18074,37.79493 0,41.04524 -96.33756,37.79492 -151.18074,37.79492 z"
          transform="scale(0.26458333)"
-         sodipodi:nodetypes="ccccccczcczcc" />
+         sodipodi:nodetypes="cccccccccczcc" />
       <path
          style="fill:#ffffff;fill-opacity:1;stroke:#311c3b;stroke-width:0.66666813;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
          d="m 208.33374,45 v 10 h -26.66673 v 65 H 170.00032 L 170,55 H 155 V 45 Z"
