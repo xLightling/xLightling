@@ -55,6 +55,8 @@ mklink /j "E:\Lightling\Libraries\Documents\BioWare\Mass Effect Andromeda" "E:\L
 mklink /j "E:\Lightling\Libraries\Documents\Respawn\Titanfall2" "E:\Lightling\Save Games\Origin Games\Titanfall2"
 mklink /j "E:\Lightling\Libraries\Documents\Electronic Arts\The Sims 3" "E:\Lightling\Save Games\Origin Games\TS 3"
 mklink /j "E:\Lightling\Libraries\Documents\Electronic Arts\The Sims 4" "E:\Lightling\Save Games\Origin Games\TS 4"
+mklink /j "C:\Users\Lightling\AppData\Roaming\HelloGames\NMS" "E:\Lightling\Save Games\Steam Games\NMS"
+mklink /j "C:\Users\Lightling\AppData\LocalLow\Daggerfall Workshop\Daggerfall Unity" "E:\Lightling\Save Games\Other Games\DF - Unity"
 ```
 
 ### TS4
@@ -65,6 +67,14 @@ bb.ignoregameplayunlocksentitlement
 ```
 
 ## CLI
+### Git
+#### Line count
+NOTE: run either case within the relevant directory  
+Replace the `js|html` etc. with the relevant extensions
+```
+git ls-files | grep -P ".*(js|html|css|glsl|php)" | xargs wc -l
+```
+Alternatively, run `npm install -g cloc` and then run `cloc --vcs git`
 ### Windows
 #### Empty Folder Removal
 NOTE: THIS COMMAND WILL REMOVE SYMBOLIC LINKS, use in a directory you know doesn't have symbolic links
