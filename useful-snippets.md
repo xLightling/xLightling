@@ -8,11 +8,39 @@ Because Windows has like 80 folders that games can save to, backups may be diffi
 #### Basic Command
 `mklink /j "target identifier, i.e. the folder/file name that should go there" "the path to the existing folder/file"`
 #### Commands
-(for future reference; these are based off my own setup and some folders may be things I added myself; put as many here as possible for one massive copy-paste anytime I want to reinstall Windows or do something that breaks this stuff)  
+(for future reference; these are based off my own setup and some folders may be things I added myself; put as many here as possible for one massive copy-paste anytime I want to reinstall Windows or do something that breaks this stuff; I have needed this one (1) time so far)  
 ```
+REM STEAM
+mklink /j "C:\Users\Lightling\AppData\Local\Amid Evil" "E:\Lightling\Save Games\Steam Games\Amid Evil"
+mklink /j "E:\ProgramData\Steam Games\steamapps\common\Aporia\user\savegames" "E:\Lightling\Save Games\Steam Games\Aporia - BtV\savegames"
+mklink /j "C:\Users\Lightling\AppData\LocalLow\onemangames\Artificial Defense" "E:\Lightling\Save Games\Steam Games\Artificial Defense"
+mklink /j "C:\Users\Lightling\AppData\Local\Colossal Order\Cities_Skylines" "E:\Lightling\Save Games\Steam Games\CitiesSkylines"
+mklink /j "C:\Program Files (x86)\Steam\userdata\114217869\205100\remote " "E:\Lightling\Save Games\Steam Games\Dishonored\remote"
+mklink /j "E:\Lightling\Libraries\Documents\My Games\Distance" "E:\Lightling\Save Games\Steam Games\Distance"
+mklink /j "E:\Lightling\Libraries\Saved Games\id Software\DOOM\base" "E:\Lightling\Save Games\Steam Games\Doom 2016"
+mklink /j "E:\Lightling\Libraries\Documents\My Games\Fallout3" "E:\Lightling\Save Games\Steam Games\FO 3"
+mklink /j "E:\Lightling\Libraries\Documents\My Games\Fallout4" "E:\Lightling\Save Games\Steam Games\FO 4"
+mklink /j "E:\Lightling\Libraries\Documents\My Games\FalloutNV" "E:\Lightling\Save Games\Steam Games\FO NV"
+mklink /j "C:\Program Files (x86)\Steam\userdata\114217869\265930\remote" "E:\Lightling\Save Games\Steam Games\Goat Sim\remote"
 mklink /j "E:\Lightling\Libraries\Documents\Square Enix\Just Cause 3" "E:\Lightling\Save Games\Steam Games\Just Cause 3"
-mklink /j "C:\Users\Lightling\AppData\Roaming\.minecraft" "D:\Games\Mojang\.minecraft"
-mklink /j "D:\Games\Mojang\.minecraft\saves" "E:\Lightling\Save Games\Other Games\Minecraft\saves"
+mklink /j "C:\Program Files (x86)\Steam\userdata\114217869\241930\remote" "E:\Lightling\Save Games\Steam Games\Shadow of War\remote"
+mklink /j "E:\ProgramData\Steam Games\steamapps\common\Nelo\Nelo\Saved" "E:\Lightling\Save Games\Steam Games\Nelo\Saved"
+mklink /j "C:\Users\Lightling\AppData\Roaming\HelloGames\NMS" "E:\Lightling\Save Games\Steam Games\NMS"
+mklink /j "E:\Lightling\Libraries\Saved Games\Frontier Developments\Planet Coaster" "E:\Lightling\Save Games\Steam Games\Planet Coaster"
+mklink /j "E:\Lightling\Libraries\Saved Games\Arkane Studios\Prey" "E:\Lightling\Save Games\Steam Games\Prey"
+mklink /j "C:\Users\Lightling\AppData\LocalLow\SomaSim\Project Highrise" "E:\Lightling\Save Games\Steam Games\Project Highrise"
+mklink /j "E:\ProgramData\Steam Games\steamapps\common\Rise to Ruins\profiles" "E:\Lightling\Save Games\Steam Games\Rise to Ruins\profiles"
+mklink /j "C:\Users\Lightling\AppData\Roaming\SpaceEngineers" "E:\Lightling\Save Games\Steam Games\SpaceEngineers"
+mklink /j "C:\Users\Lightling\AppData\Roaming\StardewValley" "E:\Lightling\Save Games\Steam Games\Stardew Valley"
+mklink /j "E:\Lightling\Libraries\Documents\My Games\Terraria" "E:\Lightling\Save Games\Steam Games\Terraria"
+mklink /j "E:\ProgramData\Steam Games\steamapps\common\Morrowind\Saves" "E:\Lightling\Save Games\Steam Games\TES III\Saves"
+mklink /j "E:\Lightling\Libraries\Documents\My Games\Oblivion" "E:\Lightling\Save Games\Steam Games\TES IV"
+mklink /j "E:\Lightling\Libraries\Documents\My Games\Skyrim" "E:\Lightling\Save Games\Steam Games\TES V"
+mklink /j "C:\Program Files (x86)\Steam\userdata\114217869\379610\remote" "E:\Lightling\Save Games\Steam Games\Valley\remote"
+mklink /j "E:\Lightling\Libraries\Documents\The Witcher 3" "E:\Lightling\Save Games\Steam Games\Witcher 3"
+mklink /j "E:\Lightling\Libraries\Saved Games\MachineGames\Wolfenstein The New Order\base" "E:\Lightling\Save Games\Steam Games\Wolfenstein - TNO\base"
+mklink /j "E:\Lightling\Libraries\Saved Games\MachineGames\Wolfenstein The Old Blood\base" "E:\Lightling\Save Games\Steam Games\Wolfenstein - TOB\base"
+REM GOG
 mklink /j "C:\Users\Lightling\AppData\Local\AvenColony" "E:\Lightling\Save Games\GOG Games\Aven Colony"
 mklink /j "E:\ProgramData\GOG Games\Dungeon Keeper Gold\SAVE" "E:\Lightling\Save Games\GOG Games\Dungeon Keeper\SAVE"
 mklink /j "E:\ProgramData\GOG Games\Dungeon Keeper 2\Data\Save" "E:\Lightling\Save Games\GOG Games\Dungeon Keeper 2\Save"
@@ -46,6 +74,7 @@ mklink /j "E:\Lightling\Libraries\Documents\Paradox Interactive\Stellaris" "E:\L
 mklink /j "E:\Lightling\Libraries\Documents\The Witcher" "E:\Lightling\Save Games\GOG Games\Witcher"
 mklink /j "E:\Lightling\Libraries\Documents\Witcher 2" "E:\Lightling\Save Games\GOG Games\Witcher 2"
 mklink /j "E:\Lightling\Libraries\Documents\The Witcher 3" "E:\Lightling\Save Games\Steam Games\Witcher 3"
+REM ORIGIN
 mklink /j "E:\Lightling\Libraries\Documents\BioWare\Anthem" "E:\Lightling\Save Games\Origin Games\Anthem"
 mklink /j "C:\Users\Lightling\AppData\Local\Criterion Games\Burnout Paradise Remastered" "E:\Lightling\Save Games\Origin Games\Burnout Paradise Remastered"
 mklink /j "E:\Lightling\Libraries\Documents\BioWare\Mass Effect" "E:\Lightling\Save Games\Origin Games\Mass Effect"
@@ -55,8 +84,16 @@ mklink /j "E:\Lightling\Libraries\Documents\BioWare\Mass Effect Andromeda" "E:\L
 mklink /j "E:\Lightling\Libraries\Documents\Respawn\Titanfall2" "E:\Lightling\Save Games\Origin Games\Titanfall2"
 mklink /j "E:\Lightling\Libraries\Documents\Electronic Arts\The Sims 3" "E:\Lightling\Save Games\Origin Games\TS 3"
 mklink /j "E:\Lightling\Libraries\Documents\Electronic Arts\The Sims 4" "E:\Lightling\Save Games\Origin Games\TS 4"
-mklink /j "C:\Users\Lightling\AppData\Roaming\HelloGames\NMS" "E:\Lightling\Save Games\Steam Games\NMS"
+REM OTHER
+mklink /j "E:\Lightling\Libraries\Documents\My Games\0ad" "E:\Lightling\Save Games\Other Games\0ad"
+mklink /j "C:\Users\Lightling\AppData\Roaming\.minecraft" "D:\Games\Mojang\.minecraft"
+mklink /j "D:\Games\Mojang\.minecraft\saves" "E:\Lightling\Save Games\Other Games\Minecraft\saves"
 mklink /j "C:\Users\Lightling\AppData\LocalLow\Daggerfall Workshop\Daggerfall Unity" "E:\Lightling\Save Games\Other Games\DF - Unity"
+mklink /j "E:\Lightling\Libraries\Documents\My Games\Halo" "E:\Lightling\Save Games\Other Games\Halo"
+mklink /j "C:\Users\Lightling\AppData\Local\Microsoft\Halo 2\Saved Games\" "E:\Lightling\Save Games\Other Games\Halo 2"
+mklink /j "E:\Lightling\Libraries\Documents\Halo CE" "E:\Lightling\Save Games\Other Games\Halo CE"
+mklink /j "E:\Lightling\Libraries\Documents\OpenRCT2\" "E:\Lightling\Save Games\Other Games\OpenRCT2"
+mklink /j "E:\Lightling\Libraries\Documents\RCT3" "E:\Lightling\Save Games\Other Games\RCT3"
 ```
 
 ### TS4
