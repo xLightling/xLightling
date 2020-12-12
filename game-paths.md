@@ -41,8 +41,8 @@ mklink /j "C:\Program Files (x86)\Steam\userdata\114217869\265930\remote" "E:\Li
 mkdir "E:\Lightling\Libraries\Documents\Square Enix"
 mklink /j "E:\Lightling\Libraries\Documents\Square Enix\Just Cause 3" "E:\Lightling\Save Games\Steam Games\Just Cause 3"
 
-mkdir "C:\Program Files (x86)\Steam\userdata\114217869\241930"
-mklink /j "C:\Program Files (x86)\Steam\userdata\114217869\241930\remote" "E:\Lightling\Save Games\Steam Games\Shadow of War\remote"
+mkdir "C:\Program Files (x86)\Steam\userdata\114217869\356190"
+mklink /j "C:\Program Files (x86)\Steam\userdata\114217869\356190\remote" "E:\Lightling\Save Games\Steam Games\Shadow of War\remote"
 
 mkdir "E:\ProgramData\Steam Games\steamapps\common\Nelo\Nelo"
 mklink /j "E:\ProgramData\Steam Games\steamapps\common\Nelo\Nelo\Saved" "E:\Lightling\Save Games\Steam Games\Nelo\Saved"
