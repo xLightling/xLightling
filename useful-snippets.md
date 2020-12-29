@@ -52,7 +52,7 @@ PAUSE
 #### Trash Removal (requires Python)
 Sometimes, if the trash bin gets too large, the context-menu for the trash bin won't load. To sync deletes, do the following:
 0. Ensure odrive is fully loaded (command will return an error if not running, command will have no effect if it hasn't detected trash yet/hasn't fully loaded)
-1. open cmd prompt at C:\Users\Lightling\.odrive\bin\6769\cli
+1. open cmd prompt at `C:\Users\Lightling\.odrive\bin\6791\cli`
 2. run `python odrive.py emptytrash`
 
 ### OS Flashing
