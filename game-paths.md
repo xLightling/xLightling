@@ -24,6 +24,9 @@ mklink /j "C:\Users\Lightling\AppData\Local\Colossal Order\Cities_Skylines" "E:\
 mkdir "C:\Program Files (x86)\Steam\userdata\114217869\205100"
 mklink /j "C:\Program Files (x86)\Steam\userdata\114217869\205100\remote " "E:\Lightling\Save Games\Steam Games\Dishonored\remote"
 
+mkdir "E:\Lightling\Libraries\Saved Games\Arkane Studios"
+mklink /j "E:\Lightling\Libraries\Saved Games\Arkane Studios\Dishonored2" "E:\Lightling\Save Games\Steam Games\Dishonored2"
+
 mklink /j "E:\Lightling\Libraries\Documents\My Games\Distance" "E:\Lightling\Save Games\Steam Games\Distance"
 
 mkdir "E:\Lightling\Libraries\Saved Games\id Software\DOOM"
@@ -69,7 +72,7 @@ mklink /j "C:\Users\Lightling\AppData\Roaming\StardewValley" "E:\Lightling\Save 
 
 mklink /j "E:\Lightling\Libraries\Documents\My Games\Terraria" "E:\Lightling\Save Games\Steam Games\Terraria"
 
-mklink /j "E:\ProgramData\Steam Games\steamapps\common\Morrowind\Saves" "E:\Lightling\Save Games\Steam Games\TES III\Saves"
+mklink /j "D:\Games\Steam Games\steamapps\common\Morrowind\Saves" "E:\Lightling\Save Games\Steam Games\TES III\Saves"
 
 mklink /j "E:\Lightling\Libraries\Documents\My Games\Oblivion" "E:\Lightling\Save Games\Steam Games\TES IV"
 
@@ -172,6 +175,13 @@ mkdir "E:\Lightling\Libraries\Documents\Electronic Arts"
 mklink /j "E:\Lightling\Libraries\Documents\Electronic Arts\The Sims 3" "E:\Lightling\Save Games\Origin Games\TS 3"
 
 mklink /j "E:\Lightling\Libraries\Documents\Electronic Arts\The Sims 4" "E:\Lightling\Save Games\Origin Games\TS 4"
+
+
+
+
+REM EGS
+
+mklink /j "E:\Lightling\Libraries\Documents\Darkest" "E:\Lightling\Save Games\EGS\Darkest"
 
 
 
