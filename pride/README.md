@@ -33,6 +33,10 @@ For easy viewing; organized in alphabetical order
        alt="asexual"
        title="asexual"
        height="64"/>
+  <img src="a_anego.svg"
+       alt="anegosexual / aegosexual"
+       title="anegosexual / aegosexual"
+       height="64"/>
   <img src="a_demi.svg"
        alt="demisexual"
        title="demisexual"
