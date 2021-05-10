@@ -29,13 +29,21 @@ For easy viewing; organized in alphabetical order
 ### Aspec
 
 <p align="left">
+  <img src="a_anego.svg"
+       alt="anegosexual / aegosexual"
+       title="anegosexual / aegosexual"
+       height="64"/>
+  <img src="a_aro.svg"
+       alt="aromantic"
+       title="aromantic"
+       height="64"/>
   <img src="a_ace.svg"
        alt="asexual"
        title="asexual"
        height="64"/>
-  <img src="a_anego.svg"
-       alt="anegosexual / aegosexual"
-       title="anegosexual / aegosexual"
+  <img src="a_demirom.svg"
+       alt="demiromantic"
+       title="demiromantic"
        height="64"/>
   <img src="a_demi.svg"
        alt="demisexual"
@@ -73,9 +81,9 @@ For easy viewing; organized in alphabetical order
        alt="demisexual polyromantic"
        title="demisexual polyromantic"
        height="64"/>
-  <img src="a_demirom.svg"
-       alt="demiromantic"
-       title="demiromantic"
+  <img src="a_grayrom.svg"
+       alt="gray-romantic"
+       title="gray-romantic"
        height="64"/>
   <img src="a_gray.svg"
        alt="gray-asexual"
