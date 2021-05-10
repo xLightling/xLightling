@@ -218,6 +218,8 @@ For easy viewing; organized in alphabetical order
 </p>
 
 ### Romantic Attraction
+
+<p align="left">
   <img src="r_aro.svg"
        alt="aromantic heart"
        title="aromantic heart"
@@ -250,6 +252,7 @@ For easy viewing; organized in alphabetical order
        alt="polyromantic heart"
        title="polyromantic heart"
        height="64"/>
+</p>
 
 ### Sexuality
 
